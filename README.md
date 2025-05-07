@@ -1,4 +1,4 @@
-# Hornet 3D Model – Blender Project 🕷
+# Hornet 3D Model – Blender Project
 
 Questo progetto consiste nella modellazione 3D del personaggio **Hornet** dal videogioco *Hollow Knight*, realizzato in **Blender 4.4.0** come progetto per il corso Fondamenti di Computer Grafica. Come reference ho usato semplicemente immagini prese online.
 
