@@ -8,7 +8,7 @@ Nella cartella **file blend** sono presenti tutti i salvataggi eseguiti passo pa
 
 1. Creato lo scheletro della testa, usando una **curva Bèzier** e specchiandola
 2. Migliorato un po la forma usando la sculpt mode
-3-4-4_1. Creato il corpo. principalmente ho usato un cerchio con 10 lati, estrudendone i vertici per creare busto e gambe
+3. 4. 4_1. Creato il corpo. principalmente ho usato un cerchio con 10 lati, estrudendone i vertici per creare busto e gambe
 5. Prime prove di mantello. anche qua un cerchio con estrusione di vertici. A questo punto stavo cercando di applicare la fisica al mantello per farlo "svolazzare"
 6. Sempre prove col vento, non funzionanti
 7. Fine del mantello (per modo di dire, in realta verrà poi modificato). Qua non riuscivo a capire come far funzionare il vento quindi l'ho momentaneamente rimosso. I problemi erano dati probabilmente da una quantità non sufficente di vertici
