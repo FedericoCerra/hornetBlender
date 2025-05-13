@@ -6,7 +6,7 @@ Nota: prima di fare questo progetto, ho seguito il tutorial su Youtube di blende
 
 Nella cartella **file blend** sono presenti tutti i salvataggi eseguiti passo passo, in seguito commenterò per ogni file cosa ho fatto.
 
-1. Creato lo scheletro della testa, usando una **curva Bèzier** e specchiandola
+1. Creato lo scheletro della testa, usando una **curva Bèzier** e specchiandola. Aggiunto spessore con l'impostazione Depth, fatto la punta con Alt + S (che riduce il raggio del cerchio attorno al punto)
 2. Migliorato un po la forma usando la sculpt mode
 3.  Creato il corpo. principalmente ho usato un cerchio con 10 lati, estrudendone i vertici per creare busto e gambe
 4.  Piccoli cambiamenti.
