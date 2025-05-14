@@ -2,7 +2,10 @@
 
 Questo progetto consiste nella modellazione 3D del personaggio **Hornet** dal videogioco *Hollow Knight*, realizzato in **Blender 4.4.0** come progetto per il corso Fondamenti di Computer Grafica. Come reference ho usato semplicemente immagini prese online.
 
-<video src="[https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a](https://github.com/user-attachments/assets/6f2f1eee-be7b-41cd-ae9f-697039521585)" width="300" />
+<video src="https://github.com/user-attachments/assets/72a09465-d69e-4d48-b850-949e45db38db" width="300" />
+
+
+
 
 
 
