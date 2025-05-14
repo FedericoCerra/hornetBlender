@@ -2,6 +2,8 @@
 
 Questo progetto consiste nella modellazione 3D del personaggio **Hornet** dal videogioco *Hollow Knight*, realizzato in **Blender 4.4.0** come progetto per il corso Fondamenti di Computer Grafica. Come reference ho usato semplicemente immagini prese online.
 
+https://github.com/user-attachments/assets/4b361765-c297-4f6a-8141-76d5b6abcfc2
+
 Nota: prima di fare questo progetto, ho seguito il tutorial su Youtube di blenderGuru sulla creazione di modelli di ciambella, caricato anch'esso su github: [ciambellaBlender](https://github.com/FedericoCerra/ciambelleBlender)
 
 Nella cartella **file blend** sono presenti tutti i salvataggi eseguiti passo passo, in seguito commenterò per ogni file cosa ho fatto.
