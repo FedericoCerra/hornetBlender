@@ -7,13 +7,29 @@ Nota: prima di fare questo progetto, ho seguito il tutorial su Youtube di blende
 Nella cartella **file blend** sono presenti tutti i salvataggi eseguiti passo passo, in seguito commenterò per ogni file cosa ho fatto.
 
 1. Creato lo scheletro della testa, usando una **curva Bèzier** e specchiandola. Aggiunto spessore con l'impostazione Depth, fatto la punta con Alt + S (che riduce il raggio del cerchio attorno al punto)
+  ![image](https://github.com/user-attachments/assets/0467844b-d629-455d-bc00-9f0291c6d20c)
+
 2. Migliorato un po la forma usando la sculpt mode
-3.  Creato il corpo. principalmente ho usato un cerchio con 10 lati, estrudendone i vertici per creare busto e gambe
+![image](https://github.com/user-attachments/assets/78c25958-3bad-462a-ade9-00b3c7b071a9)
+
+3.  Creato il corpo. principalmente ho usato un cerchio con 10 lati, estrudendone i vertici per creare busto e gambe. Piccoli miglioramenti alla testa e fatto i buchi per gli occhi usando la sculpt mode (pennello blob inverso, tenendo premuto ctrl)
+![image](https://github.com/user-attachments/assets/635dd84a-08e7-4fa3-bf21-105e71553780)
+
 4.  Piccoli cambiamenti.
-5. Prime prove di mantello. anche qua un cerchio con estrusione di vertici. A questo punto stavo cercando di applicare la fisica al mantello per farlo "svolazzare"
-6. Sempre prove col vento, non funzionanti
-7. Fine del mantello (per modo di dire, in realta verrà poi modificato). Qua non riuscivo a capire come far funzionare il vento quindi l'ho momentaneamente rimosso. I problemi erano dati probabilmente da una quantità non sufficente di vertici
+![image](https://github.com/user-attachments/assets/3c4f80bf-f782-48d4-a3bf-5044f68563e7)
+
+5. Prime prove di mantello. anche qua un cerchio con estrusione di vertici. A questo punto stavo cercando di applicare la fisica al mantello per farlo "svolazzare". Ho fatto un pò di prove con un piano sopra ad un cubo per capire come funzionasse l'aggiunta di fisica agli oggetti
+![image](https://github.com/user-attachments/assets/2d9d563d-a476-4214-b8cd-20925437cc4d)
+
+6. Sempre prove col vento, non funzionanti. Aggiunto il pin al mantello mettendo i vertici attorno al colletto in un vertex group e in seguito mettendo quel vertex group come pin in modo da far stare appeso il mantello. Il mantello qua rimaneva comunque troppo rigido.
+![image](https://github.com/user-attachments/assets/f0bad255-0110-4f1a-bfab-d831aaa1812a)
+
+7. Fine del mantello, aumentato le subdivision in modo che si pieghi di più. Qua ho avuto diversi problemi con il vento quindi l'ho momentaneamente rimosso.
+![image](https://github.com/user-attachments/assets/aaca2b75-db9a-4522-89ab-ea103d822503)
+
 8. Creata l'arma. Qua ho unito un torus ad un cilindro, ho poi aggiunto la lama fatta con un piano che è stato modificato.
+![image](https://github.com/user-attachments/assets/ba683c1b-b703-4977-a158-6b6c2c99456e)
+
 9. Lama finita all'incirca. (in seguito verrà ritoccata, ma di poco)
 10. Piccole modifiche alla testa.
 11. Ho creato gli occhi, aggiungendoli al modello della testa. Creato materiali per mantello, arma, pelle e occhi.
