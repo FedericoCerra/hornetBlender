@@ -77,6 +77,7 @@ Nella cartella **file blend** sono presenti tutti i salvataggi eseguiti passo pa
 14. Creato una scena. Qua ho usato un piano con bevel per lo sfondo, aggiunto luci ad area. Per la colorazione del piano, ho usato i Geometry Nodes per dare l effetto sfumato. (ho seguito un tutorial su youtube)
 
 ![image](https://github.com/user-attachments/assets/210289a1-0f5c-40e0-aa33-10f7e0376758)
+![image](https://github.com/user-attachments/assets/d7a6a310-fa97-41a6-a734-05fdec0f5763)
 
 
 15. Qua ho provato ad animare il filo che circonda hornet. All'inizio ho provato con un Taper. Non ha funzionato. Ho provato poi a selezionare alcuni punti e applicare il modificatore Wave. In seguito ho provato a mettere un oggetto ancora a alcuni punti ed applicare ad esso il modificatore Wave. Ho scoperto che i punti non seguono l oggetto ancora se lo spostamento avviene con un modificatore(Ho anche provato ad applicarlo, ma niente). Infine, ho risolto aggiungendo un empty, ancorare ad esso alcuni punti e muoverlo "a mano", mettendo keyframes.
