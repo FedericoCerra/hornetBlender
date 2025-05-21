@@ -80,14 +80,15 @@ Nella cartella **file blend** sono presenti tutti i salvataggi eseguiti passo pa
 ![image](https://github.com/user-attachments/assets/d7a6a310-fa97-41a6-a734-05fdec0f5763)
 
 
-15. Qua ho provato ad animare il filo che circonda hornet. All'inizio ho provato con un Taper. Non ha funzionato. Ho provato poi a selezionare alcuni punti e applicare il modificatore Wave. In seguito ho provato a mettere un oggetto ancora a alcuni punti ed applicare ad esso il modificatore Wave. Ho scoperto che i punti non seguono l oggetto ancora se lo spostamento avviene con un modificatore(Ho anche provato ad applicarlo, ma niente). Infine, ho risolto aggiungendo un empty, ancorare ad esso alcuni punti e muoverlo "a mano", mettendo keyframes.
-
-https://github.com/user-attachments/assets/944737b5-7d31-4698-ac1f-5058fcd2d678
-
-
-16-17. Stavo provando diverse cose per il mantello, ho riscontrato diverse difficoltà qua. O non si muoveva col vento o si muoveva troppo, compenetrandosi con il modello del corpo. Ho provato diversi livelli di subdivision sia del modello che del mantello fino ad avere un mantello che non si compenetrasse.
+15-16. Stavo provando diverse cose per il mantello, ho riscontrato diverse difficoltà qua. O non si muoveva col vento o si muoveva troppo, compenetrandosi con il modello del corpo. Ho provato diversi livelli di subdivision sia del modello che del mantello fino ad avere un mantello che non si compenetrasse.
 
 ![image](https://github.com/user-attachments/assets/b34da464-a407-4015-9c86-843dd05d6a4f)
+
+
+
+17. Qua ho provato ad animare il filo che circonda hornet. All'inizio ho provato con un Taper. Non ha funzionato. Ho provato poi a selezionare alcuni punti e applicare il modificatore Wave. In seguito ho provato a mettere un oggetto ancora a alcuni punti ed applicare ad esso il modificatore Wave. Ho scoperto che i punti non seguono l oggetto ancora se lo spostamento avviene con un modificatore(Ho anche provato ad applicarlo, ma niente). Infine, ho risolto aggiungendo un empty, ancorare ad esso alcuni punti e muoverlo "a mano", mettendo keyframes.
+
+https://github.com/user-attachments/assets/944737b5-7d31-4698-ac1f-5058fcd2d678
 
 
 18. Fine. Ho modificato di poco la testa del modello (pennello smooth, scalato di poco verso l'alto e rimpicciolito).Ho inoltre tolto un lattice per la testa che avevo messo per piegare la testa all'indietro, ma alla fine ho optato per toglierlo e usare la sculpt mode. Ho eseguito il rendering di 240 frames, con cycles. Ho renderizzato la sequenza di immagini e poi unite nell'video editor fornito da blender(a quanto ho visto su internet, è meglio rispetto a renderizzare il video direttamente siccome è possibile recuperare da dove ci si è fermati in caso di interruzioni)
