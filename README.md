@@ -9,7 +9,8 @@ Nota: prima di fare questo progetto, ho seguito il tutorial su Youtube di blende
 
 Nella cartella **file blend** sono presenti tutti i salvataggi eseguiti passo passo, in seguito commenterò per ogni file cosa ho fatto.
 
-1. Creato lo scheletro della testa, usando una **curva Bèzier** e specchiandola. Aggiunto spessore con l'impostazione Depth, fatto la punta con Alt + S (che riduce il raggio del cerchio attorno al punto)
+1. Creato lo scheletro della testa, usando una **curva Bèzier** e specchiandola(modificatore mirror). Aggiunto spessore con l'impostazione Depth, fatto la punta con Alt + S (che riduce il raggio del cerchio attorno al punto).
+    Convertito in mesh per applicare il modificatore mirror.
 
   ![image](https://github.com/user-attachments/assets/0467844b-d629-455d-bc00-9f0291c6d20c)
 
@@ -29,7 +30,7 @@ Nella cartella **file blend** sono presenti tutti i salvataggi eseguiti passo pa
 ![image](https://github.com/user-attachments/assets/3c4f80bf-f782-48d4-a3bf-5044f68563e7)
 
 
-5. Prime prove di mantello. anche qua un cerchio con estrusione di vertici. A questo punto stavo cercando di applicare la fisica al mantello per farlo "svolazzare". Ho fatto un pò di prove con un piano sopra ad un cubo per capire come funzionasse l'aggiunta di fisica agli oggetti
+5. Prime prove di mantello. anche qua un cerchio con estrusione di vertici. A questo punto stavo cercando di applicare la fisica al mantello per farlo "svolazzare". Ho fatto un pò di prove con un piano sopra ad un cubo per capire come funzionasse l'aggiunta di fisica agli oggetti. (Aggiungi collision all'oggetto che vuoi rendere rigito, cloth all'oggetto che vuoi sia il mantello)
 
 ![image](https://github.com/user-attachments/assets/2d9d563d-a476-4214-b8cd-20925437cc4d)
 
